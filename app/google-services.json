@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197789328011",
+    "project_id": "farmings-schedular",
+    "storage_bucket": "farmings-schedular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197789328011:android:06c0f15fd826b8e6042a8e",
+        "android_client_info": {
+          "package_name": "com.example.farmings_schedular"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_7NKNaefqyLVAVtHOdJeV58cKuX9hFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/bottom_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/bottom_suggetion"
+        android:icon="@drawable/baseline_assignment_24"
+        android:title="suggetion" />
+
+    <item
+        android:id="@+id/bottom_add"
+        android:icon="@drawable/baseline_add_24"
+        android:title="Add" />
+
+    <item
+        android:id="@+id/bottom_clculate"
+        android:icon="@drawable/baseline_calculate_24"
+        android:title="Calculate" />
+    <item
+        android:id="@+id/bottom_feedback"
+        android:icon="@drawable/baseline_feedback_24"
+        android:title="Feedback"/>
+
+
+</menu>
